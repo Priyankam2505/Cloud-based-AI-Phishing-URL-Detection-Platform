@@ -66,7 +66,7 @@ npm start
 
 ## Author
 
-Pragna Ramesh
+Priyanka M
 
 ## Homepage Screenshot
 <img width="1470" height="821" alt="Screenshot 2026-05-19 at 12 06 23 AM" src="https://github.com/user-attachments/assets/70c72c91-2261-4d5c-9f46-3e18edf8b3ba" />
